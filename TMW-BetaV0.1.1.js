@@ -35,7 +35,7 @@ function useItem(x, y, z, a, b)
 	}
 }
 
-function procCmd(cmd
+function procCmd(cmd)
 {
 	var cmd = cmd.split(" ");
 	switch(cmd[0])
